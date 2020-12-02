@@ -1,0 +1,16 @@
+Error: 9217: Object "C:\Users\tsarc\Desktop\lab2-Control-software-for-mech-safe-door-control-module-main\Logical\Global.typ" doesn't exist.
+Error: 9238: Source of software object "Acp10sdc" does not exist. 
+Error: 9238: Source of software object "sys_lib" does not exist. 
+Error: 9238: Source of software object "Runtime" does not exist. 
+Error: 9238: Source of software object "asstring" does not exist. 
+Error: 9238: Source of software object "Acp10man" does not exist. 
+Error: 9238: Source of software object "Acp10par" does not exist. 
+Error: 9238: Source of software object "NcGlobal" does not exist. 
+Error: 9238: Source of software object "Acp10_MC" does not exist. 
+Error: 9238: Source of software object "brsystem" does not exist. 
+Error: 9238: Source of software object "AsBrStr" does not exist. 
+Error: 9238: Source of software object "DriveLib" does not exist. 
+System error.
+   at BR.AS.AnalyseProject.DataClasses.DataAndTools.StopExecutionOnErrorAndUserCancelation()
+   at BR.AS.AnalyseProject.Analyse.Init()
+   at BR.AS.AnalyseProject.Analyse.Execute()

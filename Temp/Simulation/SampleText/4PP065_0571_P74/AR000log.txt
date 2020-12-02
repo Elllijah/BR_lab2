@@ -1,0 +1,21 @@
+Sat Nov 07 15:53:36 2020
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Sat Nov 07 15:53:36 2020
+No ARsim registration found!
+
+Sat Nov 07 15:53:36 2020
+InstanceName: 01d6b505020c9010
+
+Sat Nov 07 15:53:36 2020
+WorkingDirectory: C:\Users\tsarc\Desktop\lab2-Control-software-for-mech-safe-door-control-module-main\Temp\Simulation\SampleText\4PP065_0571_P74\
+
+Sat Nov 07 15:53:36 2020
+COMMAND_COLDSTART
+
+Sat Nov 07 15:53:36 2020
+Error CreateProcess: 2
+
+Sat Nov 07 16:14:20 2020
+COMMAND_TERMINATE
+
